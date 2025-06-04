@@ -43,7 +43,9 @@ If you're unsure where your AddOns directory is located:
 
 ### Shader Cache Issues
 
-If you're still seeing the new UI textures or the textures are blank/clear:
+If you're still seeing the new UI textures or the textures are blank/clear
+or
+If you disabled the addon Pre101046UI and you're still seeing the older Pre Update46 textures:
 
 1. Close the game completely
 2. Delete the file: `\Elder Scrolls Online\live\ShaderCache.cooked`
@@ -54,7 +56,6 @@ If you're still seeing the new UI textures or the textures are blank/clear:
 - This addon is designed to revert UI changes introduced in Update 46
 - No dependencies required
 - No in-game settings menu
-- Large file size (approximately 1.2GB unzipped)
 
 ## 🤝 Support
 
